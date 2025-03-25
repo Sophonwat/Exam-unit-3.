@@ -13,6 +13,6 @@ export function decodeChallenge(challenge) {
     // Log the extracted uppercase letters for debugging purposes
     console.log("Uppercase Letters:", uppercaseLetters); // Display the hidden message in the console
 
-    // Return the hidden message (uppercase letters)
+    // Return the hidden message (uppercase letters), or an empty string if no letters are found
     return uppercaseLetters;
 }

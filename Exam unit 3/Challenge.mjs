@@ -11,7 +11,7 @@ async function start() {
 
     if (data.challenge) {
         // Replace this with the actual text from the page containing BOMBAST
-        const pageText = "gg we trui+jo"; // Add the text from the page containing BOMBAST
+        const pageText = "difficultates"; 
 
         // Use the decodeChallenge function
         const decodedAnswer = decodeChallenge(data.challenge, pageText);

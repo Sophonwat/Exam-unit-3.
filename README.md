@@ -116,7 +116,7 @@ For the cipher `17 20 9`:
 - 9th letter in that line  
 
 #### My Attempt:
-I found the word "BOMBAST" on the first page of the book ([LINK](https://example.com)). However, decoding the cipher was challenging because the lines and letters didn’t match the expected format.
+I found the word "BOMBAST" on the first book page LINK of ([LINK](https://embassyofthefreemind.com/nl/collectie/online-catalogus/detail/188075d9-b170-8e8f-be2a-49af6c981d2e/media/a856b91b-4582-3088-098c-43e4640c5673?mode=detail&view=horizontal&q=Johann%20Huser&rows=1&page=1&fq%5B%5D=search_s_digitized_publication:%22Ja%22)). However, decoding the cipher was challenging because the lines and letters didn’t match the expected format.
 
 Here’s an example of the cipher text I encountered:  
 `   '\n' +
@@ -140,4 +140,8 @@ The final solution required encoding the formula into alchemical symbols. Howeve
 ---
 
 ### Conclusion:
-The challenges became progressively harder. While I managed to solve the first two challenges with Copilot’s help, the third challenge was beyond my understanding. I learned a lot about decoding techniques and how to use Copilot effectively, but I need more practice with book ciphers to improve.
+The challenges got harder as I went along. I was able to solve the first two with some help from Copilot, but the third one was too advanced for me. It involved book ciphers, a tricky decoding method that I struggled to implement.
+
+Along the way, I learned a lot about decoding techniques, working with APIs, and using Copilot to solve problems. However, the book cipher challenge showed me that I still have more to learn in this area.
+
+After trying several times, the server eventually stopped responding, so I had to stop there. Even though I didn’t finish everything, I see this as a great learning experience and a reminder to keep practicing and improving.
